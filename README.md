@@ -1,8 +1,4 @@
-Name : Nguyen Xuan Nguyen /n
-contact :nguyenx1012@gmail.com
-
-
-<!---
-xuannguyen1012/xuannguyen1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>name : Nguyễn Xuân Nguyên</p></n>
+<h1>contact</h1>
+<p>Phone number:0916091977</p>
+<p>Email:nguyenx102@gmail.xom</p>
